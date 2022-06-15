@@ -1,2 +1,2 @@
-up_to_date 
+git commit -m 'up_to_date'
 Kindly readm
