@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On branch master
 Your branch and 'origin/master' have diverged,
 and have 3 and 4 different commits each, respectively.
@@ -14,3 +15,6 @@ Untracked files:
 	README.md~3800ced506c577cb829587b86c33aa46015e8805
 
 no changes added to commit (use "git add" and/or "git commit -a")
+=======
+up_to_date
+>>>>>>> refs/remotes/origin/master
